@@ -1,0 +1,130 @@
+-- ds.page: ORTHODONTICS SIMPLIFIED
+
+-- ds.h2: Principles of Biomechanics
+
+-- ds.markdown:
+
+- Orthodontic tooth movement results from the application of forces to teeth. 
+The orthodontic appliances that are selected, inserted, and activated by the 
+clinician produce these forces. 
+- The cells of the periodontium, which respond to the applied forces, their 
+activity is solely dependent upon the stress and strain occurring in their 
+environment, independent of the bracket design, wire used or other appliance 
+related factors. 
+- The basis of orthodontic treatment lies in the clinical application of 
+biomechanic concepts. 
+- **Mechanics** - is the discipline that describes the effect of forces on bodies.
+- **Biomechanics** - refers to the science of mechanics in relation to biologic
+systems.
+
+-- ds.h2: Mechanical concepts in Orthodontics
+
+-- ds.markdown:
+
+- **Center of mass** - All objects have a center of mass. This is the point 
+through which an applied force must pass for a free object to move linearly 
+without any rotation, i.e., the center of mass is an object's "balance point."
+(FREE OBJECT).
+
+-- ds.image:
+src: $assets.files.images.mechanical-concept.png
+width: 280
+
+- A tooth within the periodontal system is restrained by the periodontium, 
+it’s not a free body.
+- **Center of Resistance** -  The center of resistance is analogous (similar or
+comparable to) to the center of mass for restrained bodies and is the equivalent 
+"balance point" for restrained bodies. (RESTRAINED OBJECT
+
+-- ds.image:
+src: $assets.files.images.teeth-resistence.png
+width: 280
+
+-	**Single teeth, units of teeth, complete dental arches,** and **the jaws** 
+    themselves each have center(s) of resistance. 
+-	The center of resistance of a tooth is dependent on the root length and 
+    morphology, the number of roots, and the level of alveolar bone support.
+
+-- ds.image:
+src: $assets.files.images.teeth-resistence.png
+width: 280
+
+- Analytic studies have determined that the center of resistance for 
+**single-rooted tooth** with normal alveolar bone levels - about **1/4th to 
+1/3rd** the distance from the cementoenamel junction (CEJ) to the root apex. 
+- The center of resistance of facial bones (i.e. the maxilla), entire teeth 
+arches, or segments of teeth may also be estimated. 
+- Experimental and analytic studies report the center of resistance for a 
+**maxilla - slightly inferior to the orbitale** for the maxilla, and **distal
+to the lateral incisor roots** for intrusive movements of maxillary anterior teeth. 
+
+
+-- ds.h2: FORCE
+
+-- ds.markdown:
+
+- Forces are actions (push or pull) applied to a tooth that result in
+ orthodontic tooth movement.
+- Force is equal to mass multiplied by acceleration (F = ma). 
+- Its units are Newtons or gram x (millimeters/second). 
+- Force is a **Vector** and has both magnitude and direction.
+
+-- ds.image:
+src: $assets.files.images.vector.png
+width: 280
+
+- The magnitude of the vector - size. 
+- Direction - vector's line of action, sense, and point of origin (or point of 
+application).
+- Value of X axis = V cos 
+- Value of Y axis = V sin 
+
+-- ds.image:
+src: $assets.files.images.resultant-force.png
+width: 280
+ 
+- Resultant force = F1 + F2
+
+-- ds.h2: MOMENT OF FORCE IN ORTHODONTICS
+
+-- ds.markdown:
+
+- In orthodontics, most of the forces are applied at the crown level through 
+various appliances. So, the force applied is not in line of center of resistance 
+of the tooth.
+- And we have already seen, that the force acting through the center of 
+resistance will produce a linear motion of the object. So, in this case, the 
+force is acting away from the center of resistance. That means it will not 
+produce only linear movement of the tooth but also some degree of rotation 
+(tipping) will also be produced.
+- This effect is caused by **Moment of force** - the moment of the force is the 
+tendency for a force to produce rotation. 
+
+-- ds.image:
+src: $assets.files.images.teeth-measurement.png
+width: 280
+
+- The units of measurement of moments are in gram-millimeters (Newton- millimeters). 
+- The two variables of moment of force are the magnitude of the force and the 
+distance- both can be manipulated by the dentist to achieve the desired amount 
+of force in a desired direction.
+
+
+-- ds.h2: MOMENT OF COUPLE
+
+-- ds.markdown:
+
+- **Moment of a couple** - Another method of achieving rotational movements. 
+- **Couple** - is two parallel forces of equal magnitude acting in opposite 
+directions and separated by a distance (i.e. different lines of action). 
+- The magnitude of a couple is calculated by multiplying the magnitude of 
+force(s) by the distance between them; the units are also in gram-millimeters. 
+- Couple results in pure rotational movement of the object regardless of the 
+point of application of the forces.
+
+-- ds.h2: TORQUE
+
+-- ds.markdown:
+
+- Torque is a common synonym for moment (both moments of forces and of couples). 
+- Torque is erroneously described in terms of degrees by many orthodontists. 
