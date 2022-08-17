@@ -6,3 +6,19 @@ zip: github.com/snehamds/blog/archive/refs/heads/main.zip
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
 -- fpm.auto-import: ds
+-- fpm.auto-import: snehamds.github.io/blog/FPM/config
+-- fpm.auto-import: snehamds.github.io/blog/assets
+
+-- fpm.sitemap:
+
+# HOME: /
+
+## Orthodontics Simplified: /
+
+- Principles of Biomechanics: /principle-of-biometrics/
+- Mechanical concepts in Orthodontics: /mechanical-concepts-in-orthodontics/
+- FORCE: /force/
+- MOMENT OF FORCE IN ORTHODONTICS:/moment-of-force-in-orthodontics/
+- MOMENT OF COUPLE: /moment-of-couple/
+- TORQUE: /torque/
+ 

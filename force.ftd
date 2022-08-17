@@ -1,0 +1,27 @@
+
+-- ds.page:
+
+-- ds.h1: FORCE
+
+-- ds.markdown:
+
+-	Forces are actions (push or pull) applied to a tooth that result in orthodontic tooth movement.
+-	Force is equal to mass multiplied by acceleration (F = ma). 
+-	Its units are Newtons or gram x (millimeters/second). 
+-	Force is a **Vector** and has both magnitude and direction.
+
+-- ds.image:
+src: $assets.files.images.vector.png
+width: 280
+
+-	The magnitude of the vector - size. 
+-	Direction - vector's line of action, sense, and point of origin (or point of application).
+-	Value of X axis = V cos 
+-	Value of Y axis = V sin 
+
+-- ds.image:
+src: $assets.files.images.resultant-force.png
+width: 280
+ 
+-	Resultant force = F1 + F2
+
