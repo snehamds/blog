@@ -1,19 +1,20 @@
 -- import: fpm
 
--- fpm.package: snehamds.github.io/blog
+-- fpm.package: snehau.com
 zip: github.com/snehamds/blog/archive/refs/heads/main.zip
+base: https://raw.githubusercontent.com/snehamds/blog/main
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
 -- fpm.auto-import: ds
--- fpm.auto-import: snehamds.github.io/blog/FPM/config
--- fpm.auto-import: snehamds.github.io/blog/assets
+-- fpm.auto-import: snehau.com/FPM/config
+-- fpm.auto-import: snehau.com/assets
 
 -- fpm.sitemap:
 
 # HOME: /
 
-## Orthodontics Simplified: orthodontics-simplified
+## Orthodontics Simplified: /orthodontics-simplified/
 
 
  
