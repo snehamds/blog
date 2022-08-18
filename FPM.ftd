@@ -6,3 +6,14 @@ zip: github.com/snehamds/blog/archive/refs/heads/main.zip
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
 -- fpm.auto-import: ds
+-- fpm.auto-import: snehamds.github.io/blog/FPM/config
+-- fpm.auto-import: snehamds.github.io/blog/assets
+
+-- fpm.sitemap:
+
+# HOME: /
+
+## Orthodontics Simplified: orthodontics-simplified
+
+
+ 
